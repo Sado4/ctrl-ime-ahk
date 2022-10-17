@@ -1,7 +1,7 @@
 # ctrl-ime-ahk
 
 ## 作者
-Sado-Shi https://twitter.com/derasado
+Sado https://twitter.com/derasado
 
 ## 概要
 Mac風なキーボード(ctrl→かな・英)切り替え
